@@ -10,7 +10,8 @@ Authors: Bashayer Marghalani and J. Michael Herrmann
 
 - `index.html` — the paper webpage.
 - `styles.css` — the visual styling.
-- `assets/paper.pdf` — the manuscript PDF from the uploaded ZIP.
+- `assets/Ablation_study_of_shared_preprocessing_vs_backbone_specific_preprocessing.pdf` — the ablation study PDF
+- `assets/Cost_Sensitive_Learning_using_Contextual_Bandits_for_Medical_Image_Classification_on_Small_Datasets.pdf` — the manuscript PDF
 - `assets/*.png` — figures exported/optimised from the paper package.
 - `.nojekyll` — tells GitHub Pages to serve the files as plain static files.
 - `CITATION.cff` — draft citation metadata; update after acceptance or public release.
