@@ -1,6 +1,5 @@
 # Hybrid Thompson-UCB for Risk-Aware Brain Tumour Classification under Limited Data
 
-This repository hosts the GitHub Pages paper website and supporting research assets for the paper:
 
 **Hybrid Thompson-UCB for Risk-Aware Brain Tumour Classification under Limited Data**
 
