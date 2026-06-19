@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it. Update this file after acceptance/public release."
-title: "Risk-Sensitive Learning using Contextual Bandits for Medical Image Classification on Small Datasets"
+title: "Cost-Sensitive Learning using Contextual Bandits for Medical Image Classification on Small Datasets"
 authors:
   - family-names: Marghalani
     given-names: Bashayer
