@@ -39,7 +39,7 @@ The ablation study compares shared preprocessing and backbone-specific preproces
 
 ## Repository structure
 
-The current `assets` branch keeps the website files and supporting paper assets at the repository root:
+The current `main` branch keeps the website files:
 
 ```text
 Cost-Sensitive-Contextual-Bandits-Classifier/
@@ -50,6 +50,7 @@ Cost-Sensitive-Contextual-Bandits-Classifier/
 ├── .nojekyll
 ├── Hybrid Thompson-UCB for Risk-Aware Brain Tumour Classification under Limited Data.pdf
 ├── Ablation_study_of_shared_preprocessing_vs_backbone_specific_preprocessing.pdf
+├── Table of results of all models across all datasets.pdf
 ├── feature_space.png
 ├── H prec.png
 ├── T-H rate accross datasets and models_new.png
